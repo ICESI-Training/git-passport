@@ -1,4 +1,5 @@
 #Profesores
 Juan M Álvarez Q.
 #Estudiantes
-Joan Sebastián Garcia Delgado
+ESta es la lista de estudiantes
+Paola Veloza N.git mer
